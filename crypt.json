@@ -1,6 +1,6 @@
 {
   "success": 1,
-  "scree_no": "0"
+  "scree_no": "0",
   
   "server_url": "wNmKVPCn+3foefJrxd/cR1C1AirLrUEHbp0o/4DtiUc=",
   "server_sub_dir": "819/I3vDSh5hltLP8GX6Uw==",
@@ -10,5 +10,5 @@
   
   "admob_app_unit_id": "jOr5LOjbQdnUrgSMwdql/FAXWjkqqp5Nuq6LM0D3i7MpEyz3VoBWPQgrPXeCHGto",
   "admob_banner_unit_id": "jOr5LOjbQdnUrgSMwdql/LU36CmOuL1GCQAYlXmaLW8S9IhfexxXfu6SDmFCl+Dr",
-  "admob_interstitial_unit_id": "jOr5LOjbQdnUrgSMwdql/KGKNKoBhzlCj1Ku/LavzO3fDkpirphj8dtB0bRvfCyK",
+  "admob_interstitial_unit_id": "jOr5LOjbQdnUrgSMwdql/KGKNKoBhzlCj1Ku/LavzO3fDkpirphj8dtB0bRvfCyK"
 }
