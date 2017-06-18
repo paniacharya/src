@@ -9,13 +9,13 @@
 	"app_id": 1,
 	"app_name": "Diy Crafts",
 	"app_package": "com.paniacharya.diycrafts",
-	"app_icon": "https://github.com/paniacharya/src/blob/master/icons/diy_crafts_icon.png"
+	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/diy_crafts_icon.png"
 },
 {
 	"app_id": 2,
 	"app_name": "Tube VDownload",
 	"app_package": "com.paniacharya.tubevideodownloads",
-	"app_icon": "https://github.com/paniacharya/src/blob/master/icons/tube_video_downloader_icon.png"
+	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/tube_video_downloader_icon.png"
 }
 
 ]
