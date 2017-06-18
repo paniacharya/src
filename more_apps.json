@@ -16,6 +16,12 @@
 	"app_name": "Tube VDownload",
 	"app_package": "com.paniacharya.tubevideodownloads",
 	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/tube_video_downloader_icon.png"
+},
+{
+	"app_id": 2,
+	"app_name": "Theme For Iphone",
+	"app_package": "custom.iphone8.launcher.theme",
+	"app_icon": "https://lh3.googleusercontent.com/jFlfY0jq7sRiHJ3jwbhEWIaKTc1r-f9zku9u3yLKfNCCxSc6zsJ2Soe9hC3pdBnuvdM=w300-rw"
 }
 
 ]
