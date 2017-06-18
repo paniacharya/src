@@ -2,20 +2,20 @@
 {
 	"app_id": 0,
 	"app_name": "Call Recorder",
-	"app_package": "com.paniacharya.callrecorder",
-	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/call_recorder_icon.png"
+	"app_package": "com.ondevteam.autocallrecorderunlimited",
+	"app_icon": "https://lh3.googleusercontent.com/h9JTIamd5jPpX6yVi0UALa01U4A2tOzVmpxzNH45pqUDhKUvyeCdW4wTN11ZPAxPCZI=w300-rw"
 },
 {
 	"app_id": 1,
-	"app_name": "Diy Crafts",
-	"app_package": "com.paniacharya.diycrafts",
-	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/diy_crafts_icon.png"
+	"app_name": "Diy Ideas",
+	"app_package": "com.paniacharia.diyideas",
+	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
 },
 {
 	"app_id": 2,
-	"app_name": "Tube VDownload",
-	"app_package": "com.paniacharya.tubevideodownloads",
-	"app_icon": "https://raw.githubusercontent.com/paniacharya/src/master/icons/tube_video_downloader_icon.png"
+	"app_name": "Tube VDownloader",
+	"app_package": "com.islamtouka.tubevideodownloader",
+	"app_icon": "https://lh3.googleusercontent.com/V137o4fYaM1DwnGuD8ZMFJL6leZx7sOJvZDf1olgTPyhk3hGT5wJbL0vTiQjuxkz9g=w300-rw"
 },
 {
 	"app_id": 3,
