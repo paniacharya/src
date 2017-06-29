@@ -1,27 +1,15 @@
 [
 {
 	"app_id": 0,
-	"app_name": "Call Recorder",
-	"app_package": "com.ondevteam.autocallrecorderunlimited",
-	"app_icon": "https://lh3.googleusercontent.com/h9JTIamd5jPpX6yVi0UALa01U4A2tOzVmpxzNH45pqUDhKUvyeCdW4wTN11ZPAxPCZI=w300-rw"
+	"app_name": "5000+ DIY Crafts",
+	"app_package": "com.paniacharia.diycrafts",
+	"app_icon": "https://lh3.googleusercontent.com/eIlo3LbDCdqoTv381rvbMSBz9s8kf89ItoUwi1XeLL0Bsh72_eyHeWbcSibbWKWGsUo=w300-rw"
 },
 {
 	"app_id": 1,
 	"app_name": "Diy Ideas",
 	"app_package": "com.paniacharia.diyideas",
 	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
-},
-{
-	"app_id": 2,
-	"app_name": "Tube VDownloader",
-	"app_package": "com.islamtouka.tubevideodownloader",
-	"app_icon": "https://lh3.googleusercontent.com/V137o4fYaM1DwnGuD8ZMFJL6leZx7sOJvZDf1olgTPyhk3hGT5wJbL0vTiQjuxkz9g=w300-rw"
-},
-{
-	"app_id": 3,
-	"app_name": "Theme For Iphone",
-	"app_package": "custom.iphone8.launcher.theme",
-	"app_icon": "https://lh3.googleusercontent.com/jFlfY0jq7sRiHJ3jwbhEWIaKTc1r-f9zku9u3yLKfNCCxSc6zsJ2Soe9hC3pdBnuvdM=w300-rw"
 }
 
 ]
