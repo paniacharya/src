@@ -10,6 +10,83 @@
 	"app_name": "Diy Ideas",
 	"app_package": "com.paniacharia.diyideas",
 	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
+},
+{
+	"app_id": 2,
+	"app_name": "DIY HeadBrand",
+	"app_package": "com.paniacharya.diyheadband",
+	"app_icon": "https://lh3.googleusercontent.com/S8_P6a3vg72EIAq8fdMroTRDNJidnhTNC8RbM_FaBTrsNO0pYpVdLP1NCWHCds0-PjBO=w300-rw"
+},
+{
+	"app_id": 3,
+	"app_name": "DIY Food",
+	"app_package": "com.paniacharya.diyfood",
+	"app_icon": "https://lh3.googleusercontent.com/7xjYe0aHF6PStkKLkP0yffQLRF6I7uUBZd2uJsDYwMTXeK6wJFoHjz27vlvNwqi1yRw=w300-rw"
+},
+{
+	"app_id": 4,
+	"app_name": "DIY Outdoor",
+	"app_package": "com.paniacharya.diyoutdoor",
+	"app_icon": "https://lh3.googleusercontent.com/vOCAUqjLyLKbkWRR0Zzwe_t_BLEB4F3k2aFowvJFop9HiMt0JXUdOhrv_1wHdEtYkkM=w300-rw"
+},
+{
+	"app_id": 5,
+	"app_name": "DIY Home Decor",
+	"app_package": "com.paniacharya.diyhomedecore",
+	"app_icon": "https://lh3.googleusercontent.com/hStvJ2ug8OZwapVRxa29EtLAdhkgM_u9JemsUT4Sb7zg87kSTXyUyZhz2gEwGOWVevtn=w300-rw"
+},
+	{
+	"app_id": 6,
+	"app_name": "DIY Gardening",
+	"app_package": "com.paniacharya.diygardening",
+	"app_icon": "https://lh3.googleusercontent.com/NIuYzLqEyKrCJ6ef7m0dc_wxRVq3XbqsebsPCyampwmz1r1_7pmALSECIP4QUnQksrs=w300-rw"
+},
+{
+	"app_id": 7,
+	"app_name": "DIY Fashion",
+	"app_package": "com.paniacharya.diyfashion",
+	"app_icon": "https://lh3.googleusercontent.com/l5X2OE1b2dGCB-_LNZYZ9DbsQ1_-g24c8vscN0KQFA1kw4fM6dLNu2n8jwdr75J3PZc5=w300-rw"
+},
+{
+	"app_id": 8,
+	"app_name": "DIY Arts",
+	"app_package": "com.paniacharya.diyarts",
+	"app_icon": "https://lh3.googleusercontent.com/PrNmLJT3x2ikAzpRRQlvntw1dUGicmNGcSuCXa6OQd2u0wIt0Nw7K4gGXBXJ3l_-AD9C=w300-rw"
+},
+{
+	"app_id": 9,
+	"app_name": "DIY Paper",
+	"app_package": "com.paniacharya.diypaper",
+	"app_icon": "https://lh3.googleusercontent.com/_emvihfRHf9I3GbzjjcGgAoSGnY72hMCSmAUnizLQ22S5sYSvN2evAXE-r2V55VbgY8=w300-rw"
+},
+{
+	"app_id": 10,
+	"app_name": "DIY Life hacks",
+	"app_package": "com.paniacharya.diylifehacks",
+	"app_icon": "https://lh3.googleusercontent.com/KveUF_VsmLP7E8bOZorHP4eAimb8YMYY5b6GVVQnHxfN6wX4ZQPsNJX65TATVYvgGiFG=w300-rw"
+},
+{
+	"app_id": 11,
+	"app_name": "Diy Plastic",
+	"app_package": "com.paniacharya.diyplastic",
+	"app_icon": "https://lh3.googleusercontent.com/8ld3aEUMiiikV7b96oEIGKw5JhPV3QA2hX1Rdnu9gEh5s3H0fjh3hu9wjcE9Ycomig=w300-rw"
+},
+{
+	"app_id": 12,
+	"app_name": "Diy Gifts",
+	"app_package": "com.paniacharia.diygifts",
+	"app_icon": "https://lh3.googleusercontent.com/T4V7qLTFjwpEYjVaIzkmPjbAM-bRU0P0jKLdrMZ-bwOrfdC1s6L4pDwntma_TdUCaGk=w300-rw"
+},
+{
+	"app_id": 13,
+	"app_name": "DIY Hijab",
+	"app_package": "com.paniacharya.diyhijab",
+	"app_icon": "https://lh3.googleusercontent.com/K_xcdng2FW_164tJBoOhhHYHVRsKEddIv4Wzhwgy-f_mQs9R_a5vCeYGTrfBHnisccVD=w300-rw"
+},
+{
+	"app_id": 14,
+	"app_name": "DIY",
+	"app_package": "com.paniacharia.diy",
+	"app_icon": "https://lh3.googleusercontent.com/rrnMgdfnEWj6yCw4Mi7qLGLZeHKJqsMNeVhKmWwRSiDBfX_n6hNw4JynvV-dk0LxIRQ=w300-rw"
 }
-
 ]
