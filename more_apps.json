@@ -88,5 +88,17 @@
 	"app_name": "DIY",
 	"app_package": "com.paniacharya.diy",
 	"app_icon": "https://lh3.googleusercontent.com/rrnMgdfnEWj6yCw4Mi7qLGLZeHKJqsMNeVhKmWwRSiDBfX_n6hNw4JynvV-dk0LxIRQ=w300-rw"
+},
+{
+	"app_id": 15,
+	"app_name": "DIY Wall hanging",
+	"app_package": "com.paniacharya.diywallhanging",
+	"app_icon": "https://lh3.googleusercontent.com/vZN_hnJu1Ny0xOr5sLmj8s3aTdfbkAKeCQNp5e1bUGUnBEhG72h_h2eyDlug8uOM=w300-rw"
+},
+{
+	"app_id": 16,
+	"app_name": "DIY Storage",
+	"app_package": "com.paniacharya.diystorage",
+	"app_icon": "https://lh3.googleusercontent.com/HeiJQH6_IQ_bnipxEdQF_oz1m6MTZflomIgtqve3OvzpfgUTMVGiJ638Y5aYj7vP---f=w300-rw"
 }
 ]
