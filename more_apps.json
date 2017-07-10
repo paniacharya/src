@@ -124,5 +124,11 @@
 	"app_name": "DIY CD Crafts",
 	"app_package": "com.paniacharya.diycdcrafts",
 	"app_icon": "https://lh3.googleusercontent.com/wy7UUhTZZGXji-9BMQ3fE1GPynfG14C9iuvh3RIxH9NDW6IuH3Uj5ASCR2n6a9G4htoT=w300-rw"
-}	
+},
+{
+	"app_id": 21,
+	"app_name": "DIY Crochet Practice",
+	"app_package": "com.paniacharya.diycrochet.practice",
+	"app_icon": "https://lh3.googleusercontent.com/s3CeLr1D4ThCs404NZksz1wH3G7fJ5eyRfQ6KfEgs4bOWittgREivrQmgTcaAP1fzg=w300-rw"
+}		
 ]
