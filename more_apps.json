@@ -142,5 +142,11 @@
 	"app_name": "DIY Hair Colour",
 	"app_package": "com.paniacharya.diyhaircolour",
 	"app_icon": "https://lh3.googleusercontent.com/-eSIMlsMVNJ5b0kN94zs0JZvIfgu85uhnZ7n-5k023Z4-rjqv1RM2sGxSIX1OkuE8i8=w300-rw"
+},
+{
+	"app_id": 24,
+	"app_name": "DIY Handmade Gift",
+	"app_package": "com.paniacharya.diyhandmade.gift",
+	"app_icon": "https://lh3.googleusercontent.com/z64KsianaDtNrLcUa0Rn8Ht6k1A2sKdQitBCzMPYYZjv95JsXZA0vaMFKQgRQwNfqU6-=w300-rw"
 }	
 ]
