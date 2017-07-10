@@ -136,5 +136,11 @@
 	"app_name": "DIY Curving Fruits",
 	"app_package": "com.paniacharya.diycurving.fruits",
 	"app_icon": "https://lh3.googleusercontent.com/dA-DFg1a4UfGLbxZ9pqL9TRoDkstDK61iu9qJK2-kKoqmsUZ5x3QK1QtcFj0Ubu_wtE=w300-rw"
-}
+},
+{
+	"app_id": 23,
+	"app_name": "DIY Hair Colour",
+	"app_package": "com.paniacharya.diyhaircolour",
+	"app_icon": "https://lh3.googleusercontent.com/-eSIMlsMVNJ5b0kN94zs0JZvIfgu85uhnZ7n-5k023Z4-rjqv1RM2sGxSIX1OkuE8i8=w300-rw"
+}	
 ]
