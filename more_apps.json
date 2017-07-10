@@ -148,5 +148,11 @@
 	"app_name": "DIY Handmade Gift",
 	"app_package": "com.paniacharya.diyhandmade.gift",
 	"app_icon": "https://lh3.googleusercontent.com/z64KsianaDtNrLcUa0Rn8Ht6k1A2sKdQitBCzMPYYZjv95JsXZA0vaMFKQgRQwNfqU6-=w300-rw"
+},
+{
+	"app_id": 25,
+	"app_name": "DIY Henna",
+	"app_package": "com.paniacharya.diyhenna",
+	"app_icon": "https://lh3.googleusercontent.com/CQB_nY5fTLRLDgoS87Kb0WDlhgA0WL_ZrlKGmFIz35DeLIo0hC9uWTwTG8jVQq7-rg=w300-rw"
 }	
 ]
