@@ -106,5 +106,23 @@
 	"app_name": "DIY Embroidery Patterns",
 	"app_package": "com.paniacharya.diyembroidery.patterns",
 	"app_icon": "https://lh3.googleusercontent.com/1UT7uYkURmLkq14jfnTiRroKHhEKusOQtB-i1hWzyn_EEjiDXE-XW1Sp9zUjfFhfbBA=w300-rw"
-}
+},
+{
+	"app_id": 18,
+	"app_name": "DIY Bracelet",
+	"app_package": "com.paniacharya.diybracelet",
+	"app_icon": "https://lh3.googleusercontent.com/QFfA3jPsnxY_Z90krlyeQHN2Sh5s_McoWqHLYmWgDObtSQ5JvpUfi5cFfLx_wANiTys=w300-rw"
+},
+{
+	"app_id": 19,
+	"app_name": "DIY Baby bedroom",
+	"app_package": "com.paniacharya.diybabybedroom",
+	"app_icon": "https://lh3.googleusercontent.com/nDMTNvvxrO7a8y2hYL9f4HBgAd-ONlEaLbrjXm2dInoN_LBHyJT05rMmuIIkPTljQrAi=w300-rw"
+},
+{
+	"app_id": 20,
+	"app_name": "DIY CD Crafts",
+	"app_package": "com.paniacharya.diycdcrafts",
+	"app_icon": "https://lh3.googleusercontent.com/wy7UUhTZZGXji-9BMQ3fE1GPynfG14C9iuvh3RIxH9NDW6IuH3Uj5ASCR2n6a9G4htoT=w300-rw"
+}	
 ]
