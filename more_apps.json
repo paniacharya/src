@@ -100,5 +100,11 @@
 	"app_name": "DIY Storage",
 	"app_package": "com.paniacharya.diystorage",
 	"app_icon": "https://lh3.googleusercontent.com/HeiJQH6_IQ_bnipxEdQF_oz1m6MTZflomIgtqve3OvzpfgUTMVGiJ638Y5aYj7vP---f=w300-rw"
+},
+{
+	"app_id": 17,
+	"app_name": "DIY Embroidery Patterns",
+	"app_package": "com.paniacharya.diyembroidery.patterns",
+	"app_icon": "https://lh3.googleusercontent.com/1UT7uYkURmLkq14jfnTiRroKHhEKusOQtB-i1hWzyn_EEjiDXE-XW1Sp9zUjfFhfbBA=w300-rw"
 }
 ]
