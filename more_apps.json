@@ -130,5 +130,11 @@
 	"app_name": "DIY Crochet Practice",
 	"app_package": "com.paniacharya.diycrochet.practice",
 	"app_icon": "https://lh3.googleusercontent.com/s3CeLr1D4ThCs404NZksz1wH3G7fJ5eyRfQ6KfEgs4bOWittgREivrQmgTcaAP1fzg=w300-rw"
-}		
+},
+{
+	"app_id": 22,
+	"app_name": "DIY Curving Fruits",
+	"app_package": "com.paniacharya.diycurving.fruits",
+	"app_icon": "https://lh3.googleusercontent.com/dA-DFg1a4UfGLbxZ9pqL9TRoDkstDK61iu9qJK2-kKoqmsUZ5x3QK1QtcFj0Ubu_wtE=w300-rw"
+}
 ]
