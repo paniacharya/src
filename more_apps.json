@@ -154,5 +154,11 @@
 	"app_name": "DIY Henna",
 	"app_package": "com.paniacharya.diyhenna",
 	"app_icon": "https://lh3.googleusercontent.com/CQB_nY5fTLRLDgoS87Kb0WDlhgA0WL_ZrlKGmFIz35DeLIo0hC9uWTwTG8jVQq7-rg=w300-rw"
+},
+{
+	"app_id": 26,
+	"app_name": "DIY Room Painting Designs",
+	"app_package": "com.paniacharya.diyroom.painting",
+	"app_icon": "https://lh3.googleusercontent.com/N-HBuMbAR3SNvnd3r2konsI0FBA2yP7WjF6t7XlK3G4zIyfcibL2gsHA65hD9SM2inM=w300-rw"
 }	
 ]
