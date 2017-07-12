@@ -202,5 +202,11 @@
 	"app_name": "DIY Living Room",
 	"app_package": "com.paniacharya.diyliving.room",
 	"app_icon": "https://lh3.googleusercontent.com/vWL57NCLA3HSC0PiTrSGqS-6GZuHZx3ntoPqVWN1ehc575rCMyfcLGqB40UknNyH-7jT=w300-rw"
+},
+{
+	"app_id": 34,
+	"app_name": "DIY Little Boy Hair Styles",
+	"app_package": "com.paniacharya.diylittle.boy.hairstyles",
+	"app_icon": "https://lh3.googleusercontent.com/DHFhdgZYphcaF6pFJtZhb_cEKQ6x_P1i2ctlW-1itxFfZFo142L-sZKkEiQYwuuATg=w300-rw"
 }	
 ]
