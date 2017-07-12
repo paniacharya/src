@@ -184,5 +184,17 @@
 	"app_name": "DIY Teenage Bedroom",
 	"app_package": "com.paniacharya.diyteenage.bedroom",
 	"app_icon": "https://lh3.googleusercontent.com/endmnTESDCKB0AEZe2-LwyCnwDyNs4FsTyV_2fnJWqBPflY9gfBibCBrj4WQwvJByHJi=w300-rw"
-}	
+},
+{
+	"app_id": 31,
+	"app_name": "DIY Staircase Designs",
+	"app_package": "com.paniacharya.diystaircase",
+	"app_icon": "https://lh3.googleusercontent.com/endmnTESDCKB0AEZe2-LwyCnwDyNs4FsTyV_2fnJWqBPflY9gfBibCBrj4WQwvJByHJi=w300-rw"
+},
+{
+	"app_id": 32,
+	"app_name": "DIY Sofa Designs",
+	"app_package": "com.paniacharya.diysofa.designs",
+	"app_icon": "https://lh3.googleusercontent.com/SS8Y9ZVJTX6nd45stSMTtYQc8F8SGPtTYqNKSjahLFlpz6hkVaX8gZ6XEHbTKkAOaAE=w300-rw"
+}
 ]
