@@ -178,5 +178,11 @@
 	"app_name": "DIY TV Cabinet",
 	"app_package": "com.paniacharya.diytvcabinet",
 	"app_icon": "https://lh3.googleusercontent.com/AA8UMOITKfbjQVXXW9XEEowN-RJkf4KD2zALFzveNwziFNUwmTtyIxI4Uq6qQwSwuR0=w300-rw"
+},
+{
+	"app_id": 30,
+	"app_name": "DIY Teenage Bedroom",
+	"app_package": "com.paniacharya.diyteenage.bedroom",
+	"app_icon": "https://lh3.googleusercontent.com/endmnTESDCKB0AEZe2-LwyCnwDyNs4FsTyV_2fnJWqBPflY9gfBibCBrj4WQwvJByHJi=w300-rw"
 }	
 ]
