@@ -172,5 +172,11 @@
 	"app_name": "DIY Wardrobe Designs",
 	"app_package": "com.paniacharya.diywardrobe",
 	"app_icon": "https://lh3.googleusercontent.com/yvWlnJd_rGaFecfyEOUtY_wyrqoEqeZqONZPZsKe8abTXQZQ40LtJ8uGcLwq4al3889Q=w300-rw"
-}		
+},
+{
+	"app_id": 29,
+	"app_name": "DIY TV Cabinet",
+	"app_package": "com.paniacharya.diytvcabinet",
+	"app_icon": "https://lh3.googleusercontent.com/AA8UMOITKfbjQVXXW9XEEowN-RJkf4KD2zALFzveNwziFNUwmTtyIxI4Uq6qQwSwuR0=w300-rw"
+}	
 ]
