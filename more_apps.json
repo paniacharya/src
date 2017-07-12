@@ -208,5 +208,17 @@
 	"app_name": "DIY Little Boy Hair Styles",
 	"app_package": "com.paniacharya.diylittle.boy.hairstyles",
 	"app_icon": "https://lh3.googleusercontent.com/DHFhdgZYphcaF6pFJtZhb_cEKQ6x_P1i2ctlW-1itxFfZFo142L-sZKkEiQYwuuATg=w300-rw"
+},
+{
+	"app_id": 35,
+	"app_name": "DIY Jewelry Craft",
+	"app_package": "com.paniacharya.diyjewelry.craft",
+	"app_icon": "https://lh3.googleusercontent.com/H034yQV-NKlFpKWvbS6oDjJFFWOW8RvBimT9JusbII2mNP84OpM1F-0D5fazPTz771Me=w300-rw"
+},
+{
+	"app_id": 37,
+	"app_name": "DIY House Craft",
+	"app_package": "com.paniacharya.diyhouse.paint",
+	"app_icon": "https://lh3.googleusercontent.com/WvnB2wim-QBAEzK-uBz6q8mUPiXMJ_jya6NXfi9fgl7XjQmr8owFTR241Cfa4AHbhRc=h300-rw"
 }	
 ]
