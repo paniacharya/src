@@ -160,5 +160,17 @@
 	"app_name": "DIY Room Painting Designs",
 	"app_package": "com.paniacharya.diyroom.painting",
 	"app_icon": "https://lh3.googleusercontent.com/N-HBuMbAR3SNvnd3r2konsI0FBA2yP7WjF6t7XlK3G4zIyfcibL2gsHA65hD9SM2inM=w300-rw"
-}	
+},
+{
+	"app_id": 27,
+	"app_name": "DIY Wedding Shoes",
+	"app_package": "com.paniacharya.diywedding.shoes",
+	"app_icon": "https://lh3.googleusercontent.com/fnCW-vWzo87VCT4sla8Ug030zSjma9xPKfiD9d9OhfZ7jHU02L6mQ60JjhxrIhX4c40E=w300-rw"
+},
+{
+	"app_id": 28,
+	"app_name": "DIY Wardrobe Designs",
+	"app_package": "com.paniacharya.diywardrobe",
+	"app_icon": "https://lh3.googleusercontent.com/yvWlnJd_rGaFecfyEOUtY_wyrqoEqeZqONZPZsKe8abTXQZQ40LtJ8uGcLwq4al3889Q=w300-rw"
+}		
 ]
