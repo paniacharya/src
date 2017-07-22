@@ -220,5 +220,11 @@
 	"app_name": "DIY House Craft",
 	"app_package": "com.paniacharya.diyhouse.paint",
 	"app_icon": "https://lh3.googleusercontent.com/WvnB2wim-QBAEzK-uBz6q8mUPiXMJ_jya6NXfi9fgl7XjQmr8owFTR241Cfa4AHbhRc=h300-rw"
+},
+{
+	"app_id": 37,
+	"app_name": "Nifty DIY Ideas",
+	"app_package": "com.paniacharya.nifty.diy",
+	"app_icon": "https://lh3.googleusercontent.com/T-_whw8kecnz7wCPu5pCq0_JLmvfQQZST1YFuMPuARyGmrPYcVprQKOwVECxlXL6GHM1=w300-rw"
 }	
 ]
