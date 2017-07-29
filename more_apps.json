@@ -226,5 +226,17 @@
 	"app_name": "Nifty DIY",
 	"app_package": "com.paniacharya.nifty.diy",
 	"app_icon": "https://lh3.googleusercontent.com/T-_whw8kecnz7wCPu5pCq0_JLmvfQQZST1YFuMPuARyGmrPYcVprQKOwVECxlXL6GHM1=w300-rw"
+},
+{
+	"app_id": 38,
+	"app_name": "Nifty DIY Crafts",
+	"app_package": "com.paniacharya.nifty.diy.crafts",
+	"app_icon": "https://lh3.googleusercontent.com/FrwZMBf8O-vFjsLU7qTLuHGueDXoNYFnOrNPgqppVO9AU-MBSgF-N5xXzV1-FG3z9QMA=w300-rw"
+},
+{
+	"app_id": 39,
+	"app_name": "Nifty DIY Ideas",
+	"app_package": "com.paniacharya.nifty.diy.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/T-_whw8kecnz7wCPu5pCq0_JLmvfQQZST1YFuMPuARyGmrPYcVprQKOwVECxlXL6GHM1=w300-rw"
 }	
 ]
