@@ -1,21 +1,21 @@
 [
 {
 	"app_id": 0,
+	"app_name": "Music Player MP3",
+	"app_package": "com.paniacharya.media.player",
+	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
+},
+{
+	"app_id": 1,
 	"app_name": "5000+ DIY Crafts",
 	"app_package": "com.paniacharia.diycrafts",
 	"app_icon": "https://lh3.googleusercontent.com/eIlo3LbDCdqoTv381rvbMSBz9s8kf89ItoUwi1XeLL0Bsh72_eyHeWbcSibbWKWGsUo=w300-rw"
 },
 {
-	"app_id": 1,
+	"app_id": 2,
 	"app_name": "Diy Ideas",
 	"app_package": "com.paniacharia.diyideas",
 	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
-},
-{
-	"app_id": 2,
-	"app_name": "DIY HeadBrand",
-	"app_package": "com.paniacharya.diyheadband",
-	"app_icon": "https://lh3.googleusercontent.com/S8_P6a3vg72EIAq8fdMroTRDNJidnhTNC8RbM_FaBTrsNO0pYpVdLP1NCWHCds0-PjBO=w300-rw"
 },
 {
 	"app_id": 3,
@@ -238,5 +238,11 @@
 	"app_name": "Nifty DIY Ideas",
 	"app_package": "com.paniacharya.nifty.diy.ideas",
 	"app_icon": "https://lh3.googleusercontent.com/YHjM48VC2W3AiWHLeIa7xaZC9xLsDa3qp3JIcBc62fNI_oPdCOuq6fsFMgPJkEdZ0rw=w300-rw"
-}	
+},
+{
+	"app_id": 40,
+	"app_name": "DIY HeadBrand",
+	"app_package": "com.paniacharya.diyheadband",
+	"app_icon": "https://lh3.googleusercontent.com/S8_P6a3vg72EIAq8fdMroTRDNJidnhTNC8RbM_FaBTrsNO0pYpVdLP1NCWHCds0-PjBO=w300-rw"
+}
 ]
