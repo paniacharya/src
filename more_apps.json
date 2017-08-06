@@ -25,17 +25,17 @@
 },
 {
 	"app_id": 4,
-	"app_name": "DIY Outdoor",
-	"app_package": "com.paniacharya.diyoutdoor",
-	"app_icon": "https://lh3.googleusercontent.com/vOCAUqjLyLKbkWRR0Zzwe_t_BLEB4F3k2aFowvJFop9HiMt0JXUdOhrv_1wHdEtYkkM=w300-rw"
+	"app_name": "DIY Inspiration - Do It Yourself",
+	"app_package": "com.paniacharya.diy.inspirational",
+	"app_icon": "https://lh3.googleusercontent.com/SAjr1OX-xR1NfG2Fe3GcenYRSHF-2nNIQFpBjpEBgC9pC8kFFbG78gHqxb8aS20GhVta=w300-rw"
 },
 {
 	"app_id": 5,
-	"app_name": "DIY Home Decor",
-	"app_package": "com.paniacharya.diyhomedecore",
-	"app_icon": "https://lh3.googleusercontent.com/hStvJ2ug8OZwapVRxa29EtLAdhkgM_u9JemsUT4Sb7zg87kSTXyUyZhz2gEwGOWVevtn=w300-rw"
+	"app_name": "DIY Projects (Do It Yourself)",
+	"app_package": "com.paniacharya.diy.projects",
+	"app_icon": "https://lh3.googleusercontent.com/8N5bSgKxVk7c-7xueKH50i3imDMJBZWS3RhcGGLTOP9pMweDE95354_Vibmqahdxgyc=w300-rw"
 },
-	{
+{
 	"app_id": 6,
 	"app_name": "DIY Gardening",
 	"app_package": "com.paniacharya.diygardening",
@@ -250,5 +250,18 @@
 	"app_name": "DIY Food",
 	"app_package": "com.paniacharya.diyfood",
 	"app_icon": "https://lh3.googleusercontent.com/7xjYe0aHF6PStkKLkP0yffQLRF6I7uUBZd2uJsDYwMTXeK6wJFoHjz27vlvNwqi1yRw=w300-rw"
+},
+{
+	"app_id": 42,
+	"app_name": "DIY Outdoor",
+	"app_package": "com.paniacharya.diyoutdoor",
+	"app_icon": "https://lh3.googleusercontent.com/vOCAUqjLyLKbkWRR0Zzwe_t_BLEB4F3k2aFowvJFop9HiMt0JXUdOhrv_1wHdEtYkkM=w300-rw"
+},
+{
+	"app_id": 43,
+	"app_name": "DIY Home Decor",
+	"app_package": "com.paniacharya.diyhomedecore",
+	"app_icon": "https://lh3.googleusercontent.com/hStvJ2ug8OZwapVRxa29EtLAdhkgM_u9JemsUT4Sb7zg87kSTXyUyZhz2gEwGOWVevtn=w300-rw"
 }
+	
 ]
