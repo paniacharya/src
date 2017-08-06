@@ -7,21 +7,21 @@
 },
 {
 	"app_id": 1,
+	"app_name": "Phone Call Dialer + Contacts",
+	"app_package": "com.paniacharya.dialer",
+	"app_icon": "https://lh3.googleusercontent.com/zQKZqopdVrAN8bovnisdf9bFEf7SivF6u-C1igvruyMLAIX-XpH6iqqucnq4yjOavRZC=w300-rw"
+},
+{
+	"app_id": 2,
 	"app_name": "5000+ DIY Crafts",
 	"app_package": "com.paniacharia.diycrafts",
 	"app_icon": "https://lh3.googleusercontent.com/eIlo3LbDCdqoTv381rvbMSBz9s8kf89ItoUwi1XeLL0Bsh72_eyHeWbcSibbWKWGsUo=w300-rw"
 },
 {
-	"app_id": 2,
+	"app_id": 3,
 	"app_name": "Diy Ideas",
 	"app_package": "com.paniacharia.diyideas",
 	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
-},
-{
-	"app_id": 3,
-	"app_name": "DIY Food",
-	"app_package": "com.paniacharya.diyfood",
-	"app_icon": "https://lh3.googleusercontent.com/7xjYe0aHF6PStkKLkP0yffQLRF6I7uUBZd2uJsDYwMTXeK6wJFoHjz27vlvNwqi1yRw=w300-rw"
 },
 {
 	"app_id": 4,
@@ -244,5 +244,11 @@
 	"app_name": "DIY HeadBrand",
 	"app_package": "com.paniacharya.diyheadband",
 	"app_icon": "https://lh3.googleusercontent.com/S8_P6a3vg72EIAq8fdMroTRDNJidnhTNC8RbM_FaBTrsNO0pYpVdLP1NCWHCds0-PjBO=w300-rw"
+},
+{
+	"app_id": 41,
+	"app_name": "DIY Food",
+	"app_package": "com.paniacharya.diyfood",
+	"app_icon": "https://lh3.googleusercontent.com/7xjYe0aHF6PStkKLkP0yffQLRF6I7uUBZd2uJsDYwMTXeK6wJFoHjz27vlvNwqi1yRw=w300-rw"
 }
 ]
