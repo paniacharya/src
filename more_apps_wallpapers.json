@@ -8,6 +8,13 @@
 },
 {
 	"app_id": 1,
+	"app_name": "Paris SG Wallpapers",
+	"app_package": "com.galleryappsdev.psg.wallpapers",
+	"app_description": "Share App With Your Friends :)",
+	"app_icon": "https://lh3.googleusercontent.com/coLgylbUNrx8j6_68P0WrgeEj7bOPFnbCE3LYCERiy6gj-OvsZjpRuazu0knsEDhN-o=w300-rw"
+},	
+{
+	"app_id": 2,
 	"app_name": "Whatscan for Whatsweb",
 	"app_package": "com.imobilestudioteam.whatsweb",
 	"app_description": "Share App With Your Friends :)",
