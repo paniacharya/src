@@ -1,16 +1,16 @@
 [
 {
 	"app_id": 0,
-	"app_name": "Fidget Spinner (x2)",
-	"app_package": "com.paniacharya.finget.spinner",
-	"app_icon": "https://lh3.googleusercontent.com/VQZR7CR7ZNZDHmqtsR0WvyqgNBDUfLig8rwi-EWxLkl5gbW0hrrYn84SP8Djzx0c1NI=w300-rw"
-},
-{
-	"app_id": 1,
 	"app_name": "Fidget Spinner",
 	"app_package": "com.paniacharya.fidget.spinner",
 	"app_icon": "https://lh3.googleusercontent.com/1RFYnmKFvBJIEByS0PJ6-ZLZ77We9jFJZeLhVINOchId_SgDCxpTib4cVfmgwqa0Bdrv=w300-rw"
 },
+{
+	"app_id": 1,
+	"app_name": "Fidget Spinner (x2)",
+	"app_package": "com.paniacharya.finget.spinner",
+	"app_icon": "https://lh3.googleusercontent.com/VQZR7CR7ZNZDHmqtsR0WvyqgNBDUfLig8rwi-EWxLkl5gbW0hrrYn84SP8Djzx0c1NI=w300-rw"
+},	
 {
 	"app_id": 2,
 	"app_name": "Phone Call Dialer + Contacts",
