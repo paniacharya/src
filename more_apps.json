@@ -7,51 +7,51 @@
 },
 {
 	"app_id": 1,
+	"app_name": "Fidget Spinner",
+	"app_package": "com.paniacharya.fidget.spinner",
+	"app_icon": "https://lh3.googleusercontent.com/1RFYnmKFvBJIEByS0PJ6-ZLZ77We9jFJZeLhVINOchId_SgDCxpTib4cVfmgwqa0Bdrv=w300-rw"
+},
+{
+	"app_id": 2,
 	"app_name": "Phone Call Dialer + Contacts",
 	"app_package": "com.paniacharya.dialer",
 	"app_icon": "https://lh3.googleusercontent.com/zQKZqopdVrAN8bovnisdf9bFEf7SivF6u-C1igvruyMLAIX-XpH6iqqucnq4yjOavRZC=w300-rw"
 },
 {
-	"app_id": 2,
+	"app_id": 3,
 	"app_name": "Audio - Smart Voice Recorder",
 	"app_package": "com.paniacharya.sound.recorder",
 	"app_icon": "https://lh3.googleusercontent.com/GTHNxdTt-uagAKdZP6BfPEu7LoP40GoKHQY3HHKVI99SScK90EdpERsjSC01aocOCEA=w300-rw"
 },
 {
-	"app_id": 3,
+	"app_id": 4,
 	"app_name": "5000+ DIY Crafts",
 	"app_package": "com.paniacharia.diycrafts",
 	"app_icon": "https://lh3.googleusercontent.com/eIlo3LbDCdqoTv381rvbMSBz9s8kf89ItoUwi1XeLL0Bsh72_eyHeWbcSibbWKWGsUo=w300-rw"
 },
 {
-	"app_id": 4,
+	"app_id": 5,
 	"app_name": "Diy Ideas",
 	"app_package": "com.paniacharia.diyideas",
 	"app_icon": "https://lh3.googleusercontent.com/G1LNdxg0x11kzP968RqPSdTYAeBtcc1ZnOmmEW191GDBCCyQPus66ckjY-Y-RiaBrzlX=w300-rw"
 },
 {
-	"app_id": 5,
+	"app_id": 6,
 	"app_name": "DIY Inspiration - Do It Yourself",
 	"app_package": "com.paniacharya.diy.inspirational",
 	"app_icon": "https://lh3.googleusercontent.com/SAjr1OX-xR1NfG2Fe3GcenYRSHF-2nNIQFpBjpEBgC9pC8kFFbG78gHqxb8aS20GhVta=w300-rw"
 },
 {
-	"app_id": 6,
+	"app_id": 7,
 	"app_name": "DIY Projects (Do It Yourself)",
 	"app_package": "com.paniacharya.diy.projects",
 	"app_icon": "https://lh3.googleusercontent.com/8N5bSgKxVk7c-7xueKH50i3imDMJBZWS3RhcGGLTOP9pMweDE95354_Vibmqahdxgyc=w300-rw"
 },
 {
-	"app_id": 7,
+	"app_id": 8,
 	"app_name": "Music Player MP3",
 	"app_package": "com.paniacharya.media.player",
 	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
-},
-{
-	"app_id": 8,
-	"app_name": "DIY Fashion",
-	"app_package": "com.paniacharya.diyfashion",
-	"app_icon": "https://lh3.googleusercontent.com/l5X2OE1b2dGCB-_LNZYZ9DbsQ1_-g24c8vscN0KQFA1kw4fM6dLNu2n8jwdr75J3PZc5=w300-rw"
 },
 
 {
@@ -62,9 +62,9 @@
 },
 {
 	"app_id": 10,
-	"app_name": "DIY Life hacks",
-	"app_package": "com.paniacharya.diylifehacks",
-	"app_icon": "https://lh3.googleusercontent.com/KveUF_VsmLP7E8bOZorHP4eAimb8YMYY5b6GVVQnHxfN6wX4ZQPsNJX65TATVYvgGiFG=w300-rw"
+	"app_name": "DIY Fashion",
+	"app_package": "com.paniacharya.diyfashion",
+	"app_icon": "https://lh3.googleusercontent.com/l5X2OE1b2dGCB-_LNZYZ9DbsQ1_-g24c8vscN0KQFA1kw4fM6dLNu2n8jwdr75J3PZc5=w300-rw"
 },
 {
 	"app_id": 11,
@@ -276,5 +276,10 @@
 	"app_package": "com.paniacharya.diyarts",
 	"app_icon": "https://lh3.googleusercontent.com/PrNmLJT3x2ikAzpRRQlvntw1dUGicmNGcSuCXa6OQd2u0wIt0Nw7K4gGXBXJ3l_-AD9C=w300-rw"
 },	
-	
+{
+	"app_id": 46,
+	"app_name": "DIY Life hacks",
+	"app_package": "com.paniacharya.diylifehacks",
+	"app_icon": "https://lh3.googleusercontent.com/KveUF_VsmLP7E8bOZorHP4eAimb8YMYY5b6GVVQnHxfN6wX4ZQPsNJX65TATVYvgGiFG=w300-rw"
+}	
 ]
