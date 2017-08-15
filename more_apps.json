@@ -1,9 +1,9 @@
 [
 {
 	"app_id": 0,
-	"app_name": "Music Player MP3",
-	"app_package": "com.paniacharya.media.player",
-	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
+	"app_name": "Fidget Spinner (x2)",
+	"app_package": "com.paniacharya.finget.spinner",
+	"app_icon": "https://lh3.googleusercontent.com/VQZR7CR7ZNZDHmqtsR0WvyqgNBDUfLig8rwi-EWxLkl5gbW0hrrYn84SP8Djzx0c1NI=w300-rw"
 },
 {
 	"app_id": 1,
@@ -43,16 +43,17 @@
 },
 {
 	"app_id": 7,
+	"app_name": "Music Player MP3",
+	"app_package": "com.paniacharya.media.player",
+	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
+},
+{
+	"app_id": 8,
 	"app_name": "DIY Fashion",
 	"app_package": "com.paniacharya.diyfashion",
 	"app_icon": "https://lh3.googleusercontent.com/l5X2OE1b2dGCB-_LNZYZ9DbsQ1_-g24c8vscN0KQFA1kw4fM6dLNu2n8jwdr75J3PZc5=w300-rw"
 },
-{
-	"app_id": 8,
-	"app_name": "DIY Arts",
-	"app_package": "com.paniacharya.diyarts",
-	"app_icon": "https://lh3.googleusercontent.com/PrNmLJT3x2ikAzpRRQlvntw1dUGicmNGcSuCXa6OQd2u0wIt0Nw7K4gGXBXJ3l_-AD9C=w300-rw"
-},
+
 {
 	"app_id": 9,
 	"app_name": "DIY Paper",
@@ -268,6 +269,12 @@
 	"app_name": "DIY Gardening",
 	"app_package": "com.paniacharya.diygardening",
 	"app_icon": "https://lh3.googleusercontent.com/NIuYzLqEyKrCJ6ef7m0dc_wxRVq3XbqsebsPCyampwmz1r1_7pmALSECIP4QUnQksrs=w300-rw"
-}
+},
+{
+	"app_id": 45,
+	"app_name": "DIY Arts",
+	"app_package": "com.paniacharya.diyarts",
+	"app_icon": "https://lh3.googleusercontent.com/PrNmLJT3x2ikAzpRRQlvntw1dUGicmNGcSuCXa6OQd2u0wIt0Nw7K4gGXBXJ3l_-AD9C=w300-rw"
+},	
 	
 ]
