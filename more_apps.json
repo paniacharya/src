@@ -293,5 +293,11 @@
 	"app_name": "DIY Abaya Fashions Muslim",
 	"app_package": "com.paniacharya.diy.abaya.fashions.muslim",
 	"app_icon": "https://lh3.googleusercontent.com/p3BqKBJWtOTwJM_VAsv24Pev9f1sgaGarAP1sYWT-LmNTjKoJLgGOL-5_NhZE3fHBYw=w300-rw"
-}	
+},	
+{
+	"app_id": 49,
+	"app_name": "DIY Ankara Fashion Styles",
+	"app_package": "com.paniacharya.diy.ankara.fashion.style",
+	"app_icon": "https://lh3.googleusercontent.com/lbagTd3ILFG19eS2-1OUdeiNVolUKjzgYFgsZ9ODjuw4XofncIMWFbmw8YMP2LeJSjg=w300-rw"
+}
 ]
