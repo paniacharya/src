@@ -281,5 +281,11 @@
 	"app_name": "DIY Life hacks",
 	"app_package": "com.paniacharya.diylifehacks",
 	"app_icon": "https://lh3.googleusercontent.com/KveUF_VsmLP7E8bOZorHP4eAimb8YMYY5b6GVVQnHxfN6wX4ZQPsNJX65TATVYvgGiFG=w300-rw"
+},	
+{
+	"app_id": 47,
+	"app_name": "DIY Aquarium Deigns Ideas",
+	"app_package": "com.paniacharya.diy.aquariumd.deigns.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/ZiNCc6Q9aLkVfS5DMPGaPfYXMqo7WqnBdeMVcHzkrKtL0FNXS6_ZlcYmWhpUvcT3GiSW=w300-rw"
 }	
 ]
