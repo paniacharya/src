@@ -326,14 +326,20 @@
 },	
 {
 	"app_id": 54,
-	"app_name": "",
+	"app_name": "DIY Backyard Landscape Designs",
 	"app_package": "com.paniacharya.diy.backyard.landscape.design",
-	"app_icon": ""
+	"app_icon": "https://lh3.googleusercontent.com/0468HH10Gv0OUO4Q1CuzSa1WCNmk1bIqx1KLdCOtpvzMIwguT4novKBBbv-zyNuIAiw=w300-rw"
 },	
 {
 	"app_id": 55,
-	"app_name": "",
-	"app_package": "",
-	"app_icon": ""
+	"app_name": "DIY Bamboo Craft Ideas",
+	"app_package": "com.paniacharya.diy.bamboo.craft.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/F7yu_xgW0VC3OXIeRVb02cp20lJIDGU-O7Ss1mgLhOnYq6KcpxnJOOTTEu7Vcy7qNsE=w300-rw"
+},	
+{
+	"app_id": 56,
+	"app_name": "DIY Basement Design Ideas",
+	"app_package": "com.paniacharya.diy.basement.design.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/PkbOpw2Mm6uE2rB-PmrZl2c4OUEKAgN_docwMqU362-b6vfcZvOE34Hmi_Pln-vqVREI=w300-rw"
 }
 ]
