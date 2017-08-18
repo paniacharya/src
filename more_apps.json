@@ -347,5 +347,17 @@
 	"app_name": "DIY Birthday Cake Ideas",
 	"app_package": "com.paniacharya.diy.birthday.cake.ideas",
 	"app_icon": "https://lh3.googleusercontent.com/IsPGJVklNqOL6Xp-Q2WonYwaHNh-Ar_aFECUegsT6WfyASTK9NxnlW-H0veY73ut04c=w300-rw"
+},	
+{
+	"app_id": 58,
+	"app_name": "DIY Ceramic Floor Designs",
+	"app_package": "com.paniacharya.diy.ceramic.floor.designs",
+	"app_icon": "https://lh3.googleusercontent.com/u2O55tGro8NWfucKapkvsK3Ga4SBAd9D0yY_ZU51DNQY_uKTi2HI_4a7PhYy13uQRZo=w300-rw"
+},	
+{
+	"app_id": 59,
+	"app_name": "Popsicle Stick Crafts",
+	"app_package": "com.paniacharya.diy.popsicle.stick.crafts",
+	"app_icon": "https://lh3.googleusercontent.com/1FW25MfurvVXbgjNfvw8FpM09Hr3RUDtS7gJTK6QvU48vUwDckB59hwGhiusJixWugby=w300-rw"
 }
 ]
