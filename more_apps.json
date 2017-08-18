@@ -379,9 +379,9 @@
 },
 {
 	"app_id": 63,
-	"app_name": "",
+	"app_name": "DIY Castle Themed Bedroom Designs",
 	"app_package": "com.paniacharya.diy.castle.themed.bedroom",
-	"app_icon": ""
+	"app_icon": "https://lh3.googleusercontent.com/mOsKh5zgMUILcxnas6Xl5xFWlDe7AKAtKC2x5StVd-GM3hp52tSHPhCQSWxzVNM-yT0=w300-rw"
 },
 {
 	"app_id": 64,
@@ -409,12 +409,24 @@
 },
 {
 	"app_id": 68,
-	"app_name": "",
-	"app_package": "",
-	"app_icon": ""
+	"app_name": "DIY Hair Colour Ideas",
+	"app_package": "com.paniacharya.diy.hair.colour.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/nnBiCcpO3rCbV3kl0gMDRf6RcnxC6jy9C3UFS1shK74uXuZAZw165-cRfkQjgTzmMg=w300-rw"
 },
 {
 	"app_id": 69,
+	"app_name": "DIY Eyeshadow Makeup Tutorials",
+	"app_package": "com.paniacharya.diy.eyeshadow.makeup",
+	"app_icon": "https://lh3.googleusercontent.com/kJEvK0toTol7XgHP4fzwc8t5YfkHjfO2B9vZ57Src84kV9HmJ9eCEp0IgziCJNIt9wE=w300-rw"
+},
+{
+	"app_id": 70,
+	"app_name": "DIY Fashion Accessories",
+	"app_package": "com.paniacharya.diy.fashion.accessories",
+	"app_icon": "https://lh3.googleusercontent.com/UeTYjkGiUabLlBsTy6ZzdorqodEEXjxj1u-yH9P3uGczVgYp3XUKWDnbAmGQ4HaDhA=w300-rw"
+},
+{
+	"app_id": 71,
 	"app_name": "",
 	"app_package": "",
 	"app_icon": ""
