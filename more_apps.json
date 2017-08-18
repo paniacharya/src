@@ -46,14 +46,13 @@
 	"app_name": "DIY Projects (Do It Yourself)",
 	"app_package": "com.paniacharya.diy.projects",
 	"app_icon": "https://lh3.googleusercontent.com/8N5bSgKxVk7c-7xueKH50i3imDMJBZWS3RhcGGLTOP9pMweDE95354_Vibmqahdxgyc=w300-rw"
-},
+},	
 {
 	"app_id": 8,
-	"app_name": "Music Player MP3",
-	"app_package": "com.paniacharya.media.player",
-	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
-},
-
+	"app_name": "Popsicle Stick Crafts",
+	"app_package": "com.paniacharya.diy.popsicle.stick.crafts",
+	"app_icon": "https://lh3.googleusercontent.com/1FW25MfurvVXbgjNfvw8FpM09Hr3RUDtS7gJTK6QvU48vUwDckB59hwGhiusJixWugby=w300-rw"
+}
 {
 	"app_id": 9,
 	"app_name": "DIY Paper",
@@ -359,5 +358,65 @@
 	"app_name": "Popsicle Stick Crafts",
 	"app_package": "com.paniacharya.diy.popsicle.stick.crafts",
 	"app_icon": "https://lh3.googleusercontent.com/1FW25MfurvVXbgjNfvw8FpM09Hr3RUDtS7gJTK6QvU48vUwDckB59hwGhiusJixWugby=w300-rw"
+},
+{
+	"app_id": 60,
+	"app_name": "Music Player MP3",
+	"app_package": "com.paniacharya.media.player",
+	"app_icon": "https://lh3.googleusercontent.com/67jOplukki7_Hvvfay3w87koVwxOER1J6_VpHH6cFd4mymhHuJ-tOUajaBVwihrYc-vb=w300-rw"
+},
+{
+	"app_id": 61,
+	"app_name": "DIY Carport Design Ideas",
+	"app_package": "com.paniacharya.diy.carport.design.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/xIzFpROerYPdb69UmtNqac5NTBeje4cLN6kJWfetrjJzu1J9_xGvYgNDoKpezhed8U09=w300-rw"
+},
+{
+	"app_id": 62,
+	"app_name": "DIY Crochet Bag Ideas",
+	"app_package": "com.paniacharya.diy.crochet.bag.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/oUa7iG_q2kuKsDUvwvy8mUhO9owgJ3rU2fI92V88BQl3hI0KpRFIpjAKfwpp3gmwrQ=w300-rw"
+},
+{
+	"app_id": 63,
+	"app_name": "",
+	"app_package": "com.paniacharya.diy.castle.themed.bedroom",
+	"app_icon": ""
+},
+{
+	"app_id": 64,
+	"app_name": "",
+	"app_package": "com.paniacharya.diy.creative.handmade.gifts",
+	"app_icon": ""
+},
+{
+	"app_id": 65,
+	"app_name": "DIY Cross Stitch Flowers",
+	"app_package": "com.paniacharya.diy.cross.stitch.flowers",
+	"app_icon": "https://lh3.googleusercontent.com/9mPsme5iLFOdGYNrkPctfWaZK6ZDmpv3tUX55KYHLykaRpLw9qeu87V-5hcKB7o5eok=w300-rw"
+},
+{
+	"app_id": 66,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 67,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 68,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 69,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
 }
 ]
