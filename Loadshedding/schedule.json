@@ -1,0 +1,347 @@
+
+{
+"Data":[{
+  "Group": "1",
+  "Day": "Sun",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "1",
+  "Day": "Mon",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "1",
+  "Day": "Tue",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "1",
+  "Day": "Wed",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "1",
+  "Day": "Thu",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "1",
+  "Day": "Fri",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "1",
+  "Day": "Sat",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "2",
+  "Day": "Sun",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "2",
+  "Day": "Mon",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "2",
+  "Day": "Tue",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "2",
+  "Day": "Wed",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "2",
+  "Day": "Thu",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "2",
+  "Day": "Fri",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "2",
+  "Day": "Sat",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "3",
+  "Day": "Sun",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "3",
+  "Day": "Mon",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "3",
+  "Day": "Tue",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "3",
+  "Day": "Wed",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "3",
+  "Day": "Thu",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "3",
+  "Day": "Fri",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "3",
+  "Day": "Sat",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "4",
+  "Day": "Sun",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "4",
+  "Day": "Mon",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "4",
+  "Day": "Tue",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "4",
+  "Day": "Wed",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "4",
+  "Day": "Thu",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "4",
+  "Day": "Fri",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "4",
+  "Day": "Sat",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "5",
+  "Day": "Sun",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "5",
+  "Day": "Mon",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "5",
+  "Day": "Tue",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "5",
+  "Day": "Wed",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "5",
+  "Day": "Thu",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "5",
+  "Day": "Fri",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "5",
+  "Day": "Sat",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "6",
+  "Day": "Sun",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "6",
+  "Day": "Mon",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "6",
+  "Day": "Tue",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "6",
+  "Day": "Wed",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "09:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "6",
+  "Day": "Thu",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "6",
+  "Day": "Fri",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}, {
+  "Group": "6",
+  "Day": "Sat",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "7",
+  "Day": "Sun",
+  "StartTimeOne": "12:00",
+  "EndTimeOne": "16:00",
+  "StartTimeTwo": "20:00",
+  "EndTimeTwo": "22:00"
+}, {
+  "Group": "7",
+  "Day": "Mon",
+  "StartTimeOne": "11:00",
+  "EndTimeOne": "15:00",
+  "StartTimeTwo": "19:00",
+  "EndTimeTwo": "21:30"
+}, {
+  "Group": "7",
+  "Day": "Tue",
+  "StartTimeOne": "07:00",
+  "EndTimeOne": "11:00",
+  "StartTimeTwo": "16:00",
+  "EndTimeTwo": "20:00"
+}, {
+  "Group": "7",
+  "Day": "Wed",
+  "StartTimeOne": "10:00",
+  "EndTimeOne": "14:00",
+  "StartTimeTwo": "18:30",
+  "EndTimeTwo": "21:00"
+}, {
+  "Group": "7",
+  "Day": "Thu",
+  "StartTimeOne": "05:00",
+  "EndTimeOne": "07:00",
+  "StartTimeTwo": "14:00",
+  "EndTimeTwo": "17:00"
+}, {
+  "Group": "7",
+  "Day": "Fri",
+  "StartTimeOne": "06:00",
+  "EndTimeOne": "10:00",
+  "StartTimeTwo": "15:00",
+  "EndTimeTwo": "19:00"
+}, {
+  "Group": "7",
+  "Day": "Sat",
+  "StartTimeOne": "09:00",
+  "EndTimeOne": "12:00",
+  "StartTimeTwo": "17:00",
+  "EndTimeTwo": "20:30"
+}]
+}
