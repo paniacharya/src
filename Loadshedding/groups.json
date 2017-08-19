@@ -1,0 +1,1391 @@
+
+{
+  "Data": [
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Mangal Bazaar",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Pharping",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Patan",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Ring Road",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Sainbu",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Radio Nepal",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Pulchowk",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Jawalakhel",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Chapagaun",
+      "LOCATION_STATION": "Patan 66 k.v.",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Byanshi",
+      "LOCATION_STATION": "Bhaktapur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Katunje",
+      "LOCATION_STATION": "Bhaktapur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Nalinchowk",
+      "LOCATION_STATION": "Bhaktapur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Nagarkot",
+      "LOCATION_STATION": "Bhaktapur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Brick",
+      "LOCATION_STATION": "Bhaktapur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Tripureshwor",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Tahachal",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Kalimati",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Thankot",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Pulchowk",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Bhimsensthan",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Kirtipur",
+      "LOCATION_STATION": "Teku",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Baneshwor",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Koteshwor",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Bagmati",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Imadol",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Fidol",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Gothatar",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Godawari-1",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Conference Hall",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "New Airport",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Dhobikhola",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Old Airport",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Lubu",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Sankhamul",
+      "LOCATION_STATION": "Baneshwor",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Jorpati",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Naxal",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Airport",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Dhobikhola",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Daachi",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Battisputali",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Tangal",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Pashupati",
+      "LOCATION_STATION": "Old Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Sankhu",
+      "LOCATION_STATION": "New Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "OM Hospital",
+      "LOCATION_STATION": "New Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Sundarijal",
+      "LOCATION_STATION": "New Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Kapan",
+      "LOCATION_STATION": "New Chabahil",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Keshar Mahal",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Gairi Dhara",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Lazimpat",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Kings Way",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Durbar Marg",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Thamel",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Samakhushi",
+      "LOCATION_STATION": "Lainchaur",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Naya Bazaar",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Nagarjun",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Swoyambhu",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Bishnumati",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Maharajgunj-1",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Dharmasthali",
+      "LOCATION_STATION": "Balaju",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Tahachal",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Thankot",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Kalimati",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Kalanki",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Rope way",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Balambu",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Swoyambhu",
+      "LOCATION_STATION": "Suichutar",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Dhulikhel",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Sanga",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Nala",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Khawa",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Dhulikhel Hospital",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Khopashi",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Panauti",
+      "LOCATION_STATION": "Banepa",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Thapathali",
+      "LOCATION_STATION": "Thapathali",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Sanepa",
+      "LOCATION_STATION": "Thapathali",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Teku",
+      "LOCATION_STATION": "Thapathali",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Patan",
+      "LOCATION_STATION": "Thapathali",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Kamaladi",
+      "LOCATION_STATION": "K-2",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Ason",
+      "LOCATION_STATION": "K-3",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Mahaboudha",
+      "LOCATION_STATION": "K-4",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Durbar Marg",
+      "LOCATION_STATION": "K-5",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "BagBazaar",
+      "LOCATION_STATION": "K-6",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Budhanilkantha",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Basbari",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Baluwatar",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "US Embassy",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Gongabu",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Dhapashi",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Golfutar",
+      "LOCATION_STATION": "Maharagunj",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Balkumari",
+      "LOCATION_STATION": "Thimi",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Thimi",
+      "LOCATION_STATION": "Thimi",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Sallaghari",
+      "LOCATION_STATION": "Thimi",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "KhichaPokhari",
+      "LOCATION_STATION": "Sundhara",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Tripureshwor",
+      "LOCATION_STATION": "Sundhara",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "New Road",
+      "LOCATION_STATION": "Sundhara",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Bhotebahal",
+      "LOCATION_STATION": "Sundhara",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Bhrikuti Mandap",
+      "LOCATION_STATION": "K-3",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Kalikasthan",
+      "LOCATION_STATION": "K-3",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Anamnagar",
+      "LOCATION_STATION": "K-3",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Putalisadak",
+      "LOCATION_STATION": "K-3",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Matatirtha",
+      "LOCATION_STATION": "Matatirtha",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Piple",
+      "LOCATION_STATION": "Paanchkhal",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Palanchowk",
+      "LOCATION_STATION": "Paanchkhal",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Melamchi",
+      "LOCATION_STATION": "Paanchkhal",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Paanchkhal",
+      "LOCATION_STATION": "Paanchkhal",
+      "IS_KTM": "YES"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Gramin",
+      "LOCATION_STATION": "Hetauda",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Bhutan Devi",
+      "LOCATION_STATION": "Hetauda",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Unilever",
+      "LOCATION_STATION": "Hetauda",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Chaughada",
+      "LOCATION_STATION": "Hetauda",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Simara",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Hulas Steels",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Dumarwana",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Jitpur",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Musaharni mai",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Narawasti",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Rambahan",
+      "LOCATION_STATION": "Simara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Amlekhgunj",
+      "LOCATION_STATION": "Amlekhgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Birgunj-1",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Birgunj-2",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Kalaiya 33KV",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Birgunj-4",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Birgunj-5",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Pokhariya 33KV",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Birgunj-6",
+      "LOCATION_STATION": "Birgunj",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Gramin",
+      "LOCATION_STATION": "Parwanipur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Krishi",
+      "LOCATION_STATION": "Parwanipur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Parwani Gandak",
+      "LOCATION_STATION": "Parwanipur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Neejgadh 33KV",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Gaur 33KV",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Harsha 33KV",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Haripur 33KV",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Chapur South",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Chapur North",
+      "LOCATION_STATION": "Chapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Sindhuli 33KV",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Lalgad",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Janakpur-1 33KV",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Malangwaa 33KV",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Janakpur-2 33KV",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Mahendranagar",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Godar",
+      "LOCATION_STATION": "Dhalkebar",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Rupeni 33KV",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Bishanpur 33KV",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Lahan",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Jaljale 33KV",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Bastipur",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Jahadi",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Thadi",
+      "LOCATION_STATION": "Lahan",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Bhrikuti",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Narayanghat",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Sichai",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Parsa 33KV",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Chanauli 33KV",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Bharatpur",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Gaindakot",
+      "LOCATION_STATION": "Bharatpur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Pragatinagar",
+      "LOCATION_STATION": "Kawashoti",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Rajahar 11KV",
+      "LOCATION_STATION": "Kawashoti",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Kawashoti 33KV",
+      "LOCATION_STATION": "Kawashoti",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Pratappur",
+      "LOCATION_STATION": "Bardaghat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Sunawal",
+      "LOCATION_STATION": "Bardaghat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Dumkibas",
+      "LOCATION_STATION": "Bardaghat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Bardaghat Bazaar",
+      "LOCATION_STATION": "Bardaghat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Bhairawa old 33KV",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Bhairawa New-1 33KV",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Bhumigat Sichai",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Bhairawa New-2 33KV",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Lumbini 33KV",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Butwal West",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Butwal East",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Saaljhandi",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "New Mill",
+      "LOCATION_STATION": "Butwal",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Parashi 33KV",
+      "LOCATION_STATION": "Chauraha",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Palpa Bazaar",
+      "LOCATION_STATION": "Palpa",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Palpa West",
+      "LOCATION_STATION": "Palpa",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Gulmi",
+      "LOCATION_STATION": "Palpa",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Argakhachi",
+      "LOCATION_STATION": "Palpa",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "East",
+      "LOCATION_STATION": "Palpa",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Pipara",
+      "LOCATION_STATION": "Shivapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Bahadurgunj",
+      "LOCATION_STATION": "Shivapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Shivapur",
+      "LOCATION_STATION": "Shivapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Krishnanagar 33KV",
+      "LOCATION_STATION": "Shivapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Lamahi",
+      "LOCATION_STATION": "Lamahi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Rihar",
+      "LOCATION_STATION": "Lamahi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Ghorahi 33KV",
+      "LOCATION_STATION": "Lamahi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Bhaluwang",
+      "LOCATION_STATION": "Lamahi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Gaduwa",
+      "LOCATION_STATION": "Lamahi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Soti Pasal -1",
+      "LOCATION_STATION": "Damauli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Damauli",
+      "LOCATION_STATION": "Damauli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Tharpu",
+      "LOCATION_STATION": "Damauli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Tanahunsur",
+      "LOCATION_STATION": "Damauli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Aanbookhaireni 33KV",
+      "LOCATION_STATION": "Damauli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Bhoteodar",
+      "LOCATION_STATION": "Udyapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Okhari",
+      "LOCATION_STATION": "Udyapur",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Begnas",
+      "LOCATION_STATION": "Lekhnath",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Kalika",
+      "LOCATION_STATION": "Lekhnath",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Khaireni",
+      "LOCATION_STATION": "Lekhnath",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Budhibazaar",
+      "LOCATION_STATION": "Lekhnath",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Phewa",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "City",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Airport",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Bazaar",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Baidaam",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Aarwa",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Sarangkot",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Tatopani",
+      "LOCATION_STATION": "Pokhara",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Charikot",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Jiri",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Lamosanghu",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Magnesite",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Barhabise",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Pakhar",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Chautara",
+      "LOCATION_STATION": "Sunkoshi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Nuwakot",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Tupche",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Dhunche",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Trishuli Bazaar",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Ramshanghe",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Bidur",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Colony",
+      "LOCATION_STATION": "Trishuli",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Chainpur",
+      "LOCATION_STATION": "Devighat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Colony/Barrack",
+      "LOCATION_STATION": "Devighat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Ranipauwa",
+      "LOCATION_STATION": "Devighat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 7,
+      "LOCATION_NAME": "Bumtang",
+      "LOCATION_STATION": "Devighat",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 1,
+      "LOCATION_NAME": "Murali Bhanjyang",
+      "LOCATION_STATION": "Gajuri/Dhading",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 2,
+      "LOCATION_NAME": "Sunaula Bazaar",
+      "LOCATION_STATION": "Gajuri/Dhading",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Gajuri",
+      "LOCATION_STATION": "Gajuri/Dhading",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 4,
+      "LOCATION_NAME": "Aadamghat",
+      "LOCATION_STATION": "Gajuri/Dhading",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Salyantaar",
+      "LOCATION_STATION": "Gajuri/Dhading",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Tribeni",
+      "LOCATION_STATION": "Gandak",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 3,
+      "LOCATION_NAME": "Surajpura",
+      "LOCATION_STATION": "Gandak",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 5,
+      "LOCATION_NAME": "Modi 11KV",
+      "LOCATION_STATION": "Modi",
+      "IS_KTM": "NO"
+    },
+    {
+      "GROUP_NO": 6,
+      "LOCATION_NAME": "Baglung 11KV",
+      "LOCATION_STATION": "Modi",
+      "IS_KTM": "NO"
+    }
+  ]
+}
