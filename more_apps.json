@@ -484,5 +484,59 @@
 	"app_name": "DIY Modern Door Designs",
 	"app_package": "com.paniacharya.diy.modern.door.designs",
 	"app_icon": "https://lh3.googleusercontent.com/eGGT9cFv3_FFYqrkxpDZp3Xm7OVhKPdlRxW6769N5Q7OVtr-k6xkOFTSRRnnhqCFI-q3=w300-rw"
+},
+{
+	"app_id": 81,
+	"app_name": "DIY Muslim Fashion Styles",
+	"app_package": "com.paniacharya.diy.muslim.fashion.styles",
+	"app_icon": "https://lh3.googleusercontent.com/ol0-PPv2cKDMe9Fnk8MHyx5p-j0bldf2apNrZ0Su2qmGPE2JPsHRU8mu-K7HDxgU_WA=w300-rw"
+},
+{
+	"app_id": 82,
+	"app_name": "DIY Modern Hijab Styles",
+	"app_package": "com.paniacharya.diy.modern.hijab.styles",
+	"app_icon": "https://lh3.googleusercontent.com/LQytRS9QTFUtV1QM1hBhBIxrLh8gCe-YBkSuXsUiPbKKqQunhTG97sBPzvljq0ieMOU=w300-rw"
+},
+{
+	"app_id": 83,
+	"app_name": "DIY Korean Fashion Styles",
+	"app_package": "com.paniacharya.diy.korean.fashion.style",
+	"app_icon": "https://lh3.googleusercontent.com/RQSo0fT-6Vxcb795vgRnxWqeNAsAi3Emh6i4jHUGJJzKsV-Ex4sSTUgrXaRtxXMdTbY=w300-rw"
+},
+{
+	"app_id": 84,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 85,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 86,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 87,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 88,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 89,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
 }
 ]
