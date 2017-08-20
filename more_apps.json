@@ -430,5 +430,53 @@
 	"app_name": "DIY Hair Style Tutorials",
 	"app_package": "com.paniacharya.diy.hairstyle.tutorial",
 	"app_icon": "https://lh3.googleusercontent.com/08rGx9idilITgT2kl14DQ_Mpr3B3RPbAfYX0OVjGNnbZQlMG4mtxcHfTDH3oKAhYPA8=w300-rw"
+},
+{
+	"app_id": 72,
+	"app_name": "DIY Hand Lettering Designs",
+	"app_package": "com.paniacharya.diy.hand.lettering.design",
+	"app_icon": "https://lh3.googleusercontent.com/t-tv6sxLTMzgjEsZoWaTx48MgTa7Mq76sb2pIje7FnVnEaxFi39h2AHSQZWhT7qepCw=w300-rw"
+},
+{
+	"app_id": 73,
+	"app_name": "DIY Handbag Designs Ideas",
+	"app_package": "com.paniacharya.diy.handbag.design.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/3_r4mV9p9dUAvoTnWsomTQw_K0SOc-J7NEXk5d_C7YNz_IELXPhIyM-WI8QQY__gu7ZG=w300-rw"
+},
+{
+	"app_id": 74,
+	"app_name": "DIY Henna Designs",
+	"app_package": "com.paniacharya.diy.henna.designs",
+	"app_icon": "https://lh3.googleusercontent.com/5Ok0pc91qIhFvSw8E3qf0KnA3CrSbcRWr1ipUfTX9Q3DsS7ZeGPFjhuxQxVTF2dFb9KM=w300-rw"
+},
+{
+	"app_id": 75,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 76,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 77,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 78,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 79,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
 }
 ]
