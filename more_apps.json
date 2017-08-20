@@ -459,7 +459,7 @@
 	"app_id": 76,
 	"app_name": "DIY Home Exterior Painting Designs",
 	"app_package": "com.paniacharya.diy.home.exterior.painting.designs",
-	"app_icon": ""
+	"app_icon": "https://lh3.googleusercontent.com/FHTlA75tLn4hRY78yFujRC1rd-0B65ATI7VJCNIKwiUs7cHnqvMEvm17NCrbCA-I2Sba=w300-rw"
 },
 {
 	"app_id": 77,
@@ -475,8 +475,14 @@
 },
 {
 	"app_id": 79,
-	"app_name": "",
-	"app_package": "",
-	"app_icon": ""
+	"app_name": "DIY Kitchen Cabinet Designs",
+	"app_package": "com.paniacharya.diy.kitchen.cabinet.designs",
+	"app_icon": "https://lh3.googleusercontent.com/5A96f8pZMZGpOvbhiAmJAUzumAWzwi9CdoRZ4EvL3S30OYVl0EToGGWMx6V22NGyyQ=w300-rw"
+},
+{
+	"app_id": 80,
+	"app_name": "DIY Modern Door Designs",
+	"app_package": "com.paniacharya.diy.modern.door.designs",
+	"app_icon": "https://lh3.googleusercontent.com/eGGT9cFv3_FFYqrkxpDZp3Xm7OVhKPdlRxW6769N5Q7OVtr-k6xkOFTSRRnnhqCFI-q3=w300-rw"
 }
 ]
