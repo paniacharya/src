@@ -37,9 +37,9 @@
 },
 {
 	"app_id": 6,
-	"app_name": "DIY Inspiration - Do It Yourself",
-	"app_package": "com.paniacharya.diy.inspirational",
-	"app_icon": "https://lh3.googleusercontent.com/SAjr1OX-xR1NfG2Fe3GcenYRSHF-2nNIQFpBjpEBgC9pC8kFFbG78gHqxb8aS20GhVta=w300-rw"
+	"app_name": "DIY Craft Creative Ideas",
+	"app_package": "com.paniacharya.diy.craft.creative.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/cYx9A12wg9Zr0ktyg3DsuRDPNkoU034F9FDQ_teafat5kR0emcdspOgpQ6jE-JiFAVX2=w300-rw"
 },
 {
 	"app_id": 7,
@@ -511,9 +511,9 @@
 },
 {
 	"app_id": 85,
-	"app_name": "",
-	"app_package": "",
-	"app_icon": ""
+	"app_name": "DIY Inspiration - Do It Yourself",
+	"app_package": "com.paniacharya.diy.inspirational",
+	"app_icon": "https://lh3.googleusercontent.com/SAjr1OX-xR1NfG2Fe3GcenYRSHF-2nNIQFpBjpEBgC9pC8kFFbG78gHqxb8aS20GhVta=w300-rw"
 },
 {
 	"app_id": 86,
@@ -535,6 +535,12 @@
 },
 {
 	"app_id": 89,
+	"app_name": "",
+	"app_package": "",
+	"app_icon": ""
+},
+{
+	"app_id": 90,
 	"app_name": "",
 	"app_package": "",
 	"app_icon": ""
