@@ -544,5 +544,17 @@
 	"app_name": "DIY Pet House Designs",
 	"app_package": "com.paniacharya.diy.pet.house.designs",
 	"app_icon": "https://lh3.googleusercontent.com/AhgJjclliCUJzbcXGa-7KOgVHGFRnHwZl4guWvSIbzF1MYKtlpLZx_Ue_mbTQSYQwFA=w300-rw"
+},
+{
+	"app_id": 91,
+	"app_name": "DIY Sketch Pencil Ideas",
+	"app_package": "com.paniacharya.diy.sketch.pencil.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/H3IeRECCSSJhM7WWI1ABCONTUsnadwBexz2uQ1YpQ0SsSCIErrXwGOdyMiawHlUx-Dk=w300-rw"
+},
+{
+	"app_id": 92,
+	"app_name": "DIY Paper Quilling Ideas",
+	"app_package": "com.paniacharya.diy.paper.quilling.ideas",
+	"app_icon": "https://lh3.googleusercontent.com/MruFwUQ6OBm342KqC7aond1H_GeOquVn2uoBTIgUCoSj7GI3N4ICgGq8RU3VLU7Lkd0=w300-rw"
 }
 ]
