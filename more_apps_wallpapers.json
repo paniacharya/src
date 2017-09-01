@@ -1,17 +1,17 @@
 [
 {
 	"app_id": 0,
-	"app_name": "HD Nougat Wallpapers",
-	"app_package": "com.paniacharya.wallpapers.nougat",
+	"app_name": "The Bavarians Wallpapers",
+	"app_package": "com.creativestoredev.the.bavarians.wallpapers",
 	"app_description": "Share App With Your Friends :)",
-	"app_icon": "https://lh3.googleusercontent.com/p_KIfd2tTBnlIfwGfE_YUJot_D7weVmvHFn10AQaolUwTwkeQgfYPnl5BtOEbF39b2A=w300-rw"
+	"app_icon": "https://lh3.googleusercontent.com/t4eVnoHUAbuy6-Js-sX3F40z2yatB2ze3qIAGujkscp-0FD0CJSwDO72sfqsZFGkGoI=w300-rw"
 },
 {
 	"app_id": 1,
-	"app_name": "Paris SG Wallpapers",
-	"app_package": "com.galleryappsdev.psg.wallpapers",
+	"app_name": "Wallpapers for bayer munich",
+	"app_package": "com.creativestoredev.fcb.wallpapers",
 	"app_description": "Share App With Your Friends :)",
-	"app_icon": "https://lh3.googleusercontent.com/coLgylbUNrx8j6_68P0WrgeEj7bOPFnbCE3LYCERiy6gj-OvsZjpRuazu0knsEDhN-o=w300-rw"
+	"app_icon": "https://lh3.googleusercontent.com/gHqaveeeVCzhJv2iu9qQFbEVdLsSoI8XKtugx1309QnABEjUVrAXvR74v7CZA-cNZ3w=w300-rw"
 },	
 {
 	"app_id": 2,
@@ -19,6 +19,33 @@
 	"app_package": "com.imobilestudioteam.whatsweb",
 	"app_description": "Share App With Your Friends :)",
 	"app_icon": "https://lh3.googleusercontent.com/QGnAhHtY96iBKmI-yq8XB2jsLKsIUHutjnZZE1xxar-a5bi-zVGt5oYT59IfwArKHg=w300-rw"
+},	
+{
+	"app_id": 3,
+	"app_name": "ACM Wallpapers",
+	"app_package": "com.creativestoredev.acm.wallpapers",
+	"app_description": "Share App With Your Friends :)",
+	"app_icon": "https://lh3.googleusercontent.com/UptZ5MJ6h3SCx33gQiy51hw35JflVYIlIKa5RFI2JbeLB-B9GB_TSCqW5d2Owivh7es=w300-rw"
+},	
+{
+	"app_id": 3,
+	"app_name": "Fidget Spinner",
+	"app_package": "com.creativestoredev.fidget.spinner",
+	"app_description": "Share App With Your Friends :)",
+	"app_icon": "https://lh3.googleusercontent.com/FpAEjPZNJBLdPwdlPaQ8K7c9W_zOahA26uzAc2zv0H9YTvfNnVodl6WzYGtd7jFAdW8=w300-rw"
+},	
+{
+	"app_id": 4,
+	"app_name": "Theme for iPhone 8",
+	"app_package": "com.creativestoredev.custom.theme.for.iphone8",
+	"app_description": "Share App With Your Friends :)",
+	"app_icon": "https://lh3.googleusercontent.com/X0X8Tb5zcbnImiqq9M8HlwRh1F_v7LUOUzKmevxNP1iz3EYmStCRktqglAKfBIcCgPGe=w300-rw"
+},	
+{
+	"app_id": 5,
+	"app_name": "Theme for Galaxy S7 Edge",
+	"app_package": "com.creativestoredev.custom.theme.for.s7.edge",
+	"app_description": "Share App With Your Friends :)",
+	"app_icon": "https://lh3.googleusercontent.com/e236E8HkCVYM_314UeriDGy3baKPrtSADrDStX0g_DFeylyQxvIy0pKf1Gc6dhL5H8E5=w300-rw"
 }
-
 ]
